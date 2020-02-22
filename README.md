@@ -1,1 +1,3 @@
-# saturday
+# maven-project
+
+Simple Maven Project
